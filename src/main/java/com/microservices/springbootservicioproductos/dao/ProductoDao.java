@@ -1,4 +1,4 @@
-package com.microservices.springbootservicioproductos.models.dao;
+package com.microservices.springbootservicioproductos.dao;
 
 import com.microservices.springbootservicioproductos.models.entity.Producto;
 import org.springframework.data.repository.CrudRepository;

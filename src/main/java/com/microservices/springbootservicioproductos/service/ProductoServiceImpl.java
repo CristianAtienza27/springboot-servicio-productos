@@ -1,6 +1,6 @@
-package com.microservices.springbootservicioproductos.models.service;
+package com.microservices.springbootservicioproductos.service;
 
-import com.microservices.springbootservicioproductos.models.dao.ProductoDao;
+import com.microservices.springbootservicioproductos.dao.ProductoDao;
 import com.microservices.springbootservicioproductos.models.entity.Producto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
